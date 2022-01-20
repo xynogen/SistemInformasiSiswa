@@ -1,0 +1,29 @@
+Admin
+idAdmin *
+usernameAdmin
+passwordAdmin
+namaAdmin
+emailAdmin
+
+
+Siswa
+idSiswa   *
+usernameSiswa
+passwordSiswa
+namaSiswa
+emailSiswa
+tanggalLahirSiswa
+kotaLahirSiswa
+kelasSiswa
+noAbsenSiswa
+NIMSiswa
+
+
+File
+idFile   *
+namaFile
+pemilikFile
+tanggalFile
+
+
+
