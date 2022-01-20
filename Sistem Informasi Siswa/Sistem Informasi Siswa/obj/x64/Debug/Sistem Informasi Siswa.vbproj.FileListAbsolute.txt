@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\bin\x64\Debug\Sistem Informasi Siswa.exe.config
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\bin\x64\Debug\Sistem Informasi Siswa.exe
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\bin\x64\Debug\Sistem Informasi Siswa.pdb
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\bin\x64\Debug\Sistem Informasi Siswa.xml
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\obj\x64\Debug\Sistem Informasi Siswa.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\obj\x64\Debug\Sistem_Informasi_Siswa.Login.resources
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\obj\x64\Debug\Sistem_Informasi_Siswa.Resources.resources
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\obj\x64\Debug\Sistem Informasi Siswa.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\obj\x64\Debug\Sistem Informasi Siswa.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\obj\x64\Debug\Sistem Informasi Siswa.exe
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\obj\x64\Debug\Sistem Informasi Siswa.xml
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\obj\x64\Debug\Sistem Informasi Siswa.pdb
+C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\obj\x64\Debug\Sistem Informasi Siswa.vbproj.AssemblyReference.cache
