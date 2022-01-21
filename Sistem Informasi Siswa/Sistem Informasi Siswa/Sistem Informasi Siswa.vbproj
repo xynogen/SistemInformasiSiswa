@@ -68,6 +68,9 @@
     <PlatformTarget>x64</PlatformTarget>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
       <EmbedInteropTypes>True</EmbedInteropTypes>
@@ -98,18 +101,55 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Hashing.vb" />
-    <Compile Include="koneksi.vb" />
-    <Compile Include="Login.Designer.vb">
-      <DependentUpon>Login.vb</DependentUpon>
+    <Compile Include="AdminPanel.Designer.vb">
+      <DependentUpon>AdminPanel.vb</DependentUpon>
     </Compile>
-    <Compile Include="Login.vb">
+    <Compile Include="AdminPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changePasswordAdmin.Designer.vb">
+      <DependentUpon>changePasswordAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="changePasswordAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changePasswordSiswa.Designer.vb">
+      <DependentUpon>changePasswordSiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="changePasswordSiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editUser.Designer.vb">
+      <DependentUpon>editUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hashing.vb" />
+    <Compile Include="homeadmin.Designer.vb">
+      <DependentUpon>homeadmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="homeadmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="homesiswa.Designer.vb">
+      <DependentUpon>homesiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="homesiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koneksi.vb" />
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
       <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <Compile Include="My Project\Resources.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -121,16 +161,56 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="randomStr.vb" />
+    <Compile Include="registrasi.Designer.vb">
+      <DependentUpon>registrasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registrasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Session.vb" />
+    <Compile Include="Style.vb" />
+    <Compile Include="uploadSiswa.Designer.vb">
+      <DependentUpon>uploadSiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="uploadSiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewImage.vb" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Login.resx">
-      <DependentUpon>Login.vb</DependentUpon>
+    <EmbeddedResource Include="AdminPanel.resx">
+      <DependentUpon>AdminPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changePasswordAdmin.resx">
+      <DependentUpon>changePasswordAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changePasswordSiswa.resx">
+      <DependentUpon>changePasswordSiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editUser.resx">
+      <DependentUpon>editUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="homeadmin.resx">
+      <DependentUpon>homeadmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="homesiswa.resx">
+      <DependentUpon>homesiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registrasi.resx">
+      <DependentUpon>registrasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uploadSiswa.resx">
+      <DependentUpon>uploadSiswa.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -144,6 +224,9 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

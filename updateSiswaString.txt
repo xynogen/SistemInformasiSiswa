@@ -1,0 +1,1 @@
+UPDATE `siswa` SET `usernameSiswa` = ?, namaSiswa = ?, `emailSiswa` = ?, `tanggalLahirSiswa` = ?, `kotaLahirSiswa` = ?, `kelasSiswa` = ?, `noAbsenSiswa` = ?, `NIMSiswa` = ? WHERE `siswa`.`idSiswa` = ?
