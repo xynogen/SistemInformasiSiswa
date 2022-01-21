@@ -8,11 +8,11 @@ Public Class uploadSiswa
         If Not (Session.idAdmin Is Nothing) Then
             Session.idSiswa = Nothing
             Me.Hide()
-            homesiswa.Show()
+            homeadmin.Show()
         Else
             Session.idSiswa = Nothing
             Me.Hide()
-            homeadmin.Show()
+            homesiswa.Show()
         End If
     End Sub
 
