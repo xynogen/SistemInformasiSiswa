@@ -11,3 +11,24 @@ C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Infor
 C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\obj\Debug\Sistem Informasi Siswa.exe
 C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\obj\Debug\Sistem Informasi Siswa.xml
 C:\Users\User\Desktop\Sistem Informasi Siswa\Sistem Informasi Siswa\Sistem Informasi Siswa\obj\Debug\Sistem Informasi Siswa.pdb
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\bin\Debug\Sistem Informasi Siswa.exe.config
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\bin\Debug\Sistem Informasi Siswa.exe
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\bin\Debug\Sistem Informasi Siswa.pdb
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\bin\Debug\Sistem Informasi Siswa.xml
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem Informasi Siswa.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem Informasi Siswa.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem_Informasi_Siswa.AdminPanel.resources
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem_Informasi_Siswa.ChangePasswordAdmin.resources
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem_Informasi_Siswa.ChangePasswordSiswa.resources
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem_Informasi_Siswa.editUser.resources
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem_Informasi_Siswa.homeadmin.resources
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem_Informasi_Siswa.homesiswa.resources
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem_Informasi_Siswa.login.resources
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem_Informasi_Siswa.Resources.resources
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem_Informasi_Siswa.registrasi.resources
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem_Informasi_Siswa.uploadSiswa.resources
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem Informasi Siswa.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem Informasi Siswa.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem Informasi Siswa.exe
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem Informasi Siswa.xml
+C:\Users\User\Desktop\SistemInformasiSiswa\Sistem Informasi Siswa\obj\Debug\Sistem Informasi Siswa.pdb
